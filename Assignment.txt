@@ -1,0 +1,6 @@
+No 1. Write or display 7 mathematical functions in Java
+No 2. Find By Asking the user for Value 
+    i: The Area of a classroom (Lenght * Breath)
+    ii: The Area of a cube (6a^2)
+    iii: The Area Of A Triangle(A = 1/2 × b × h)
+    iv: the Circumferience of a Circle[2(pie)R squre] where pie = 3.142
