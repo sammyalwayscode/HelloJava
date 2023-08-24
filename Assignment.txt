@@ -4,3 +4,6 @@ No 2. Find By Asking the user for Value
     ii: The Area of a cube (6a^2)
     iii: The Area Of A Triangle(A = 1/2 × b × h)
     iv: the Circumferience of a Circle[2(pie)R squre] where pie = 3.142
+
+No 3. Writw a simple JAVA program that reads in two Values from a user and displays the largest
+No 4. Write a simple JAVA program that shows ineledgeble to vote if the user is Younger than 18 and Elidgble to vote if tey are older than 18
