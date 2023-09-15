@@ -7,3 +7,8 @@ No 2. Find By Asking the user for Value
 
 No 3. Writw a simple JAVA program that reads in two Values from a user and displays the largest
 No 4. Write a simple JAVA program that shows ineledgeble to vote if the user is Younger than 18 and Elidgble to vote if they are older than 18
+No 5. Write out a JAVA program to check wether a number is even or odd
+No 6. Write a simple Java program to find the maximum number between three numbers by using if-else ConditionalStatements
+No 7. Read up on switch cases
+No 8. A school has the following rules fro grading system
+No 9. Use the For loop to display the even numbers from 1 - 20
